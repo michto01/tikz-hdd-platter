@@ -13,4 +13,6 @@ TikZ scheme of the HDD platter with macros to setup desired size and/or higlight
 
 - As per conventions, the numbering starts from track #0 and sector #1.
 
+# Output
+_(Selected track #1, sector #1)_
 ![alt text](hdd.png)
